@@ -1,2 +1,2 @@
 # RayT.ithub.io
-Edições adicionadas com frequência.
+HTML e CSS.
