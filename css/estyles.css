@@ -1,7 +1,7 @@
 .container{
     max-width: 1080px;
     margin: 5 auto;
-    display: center;
+    display: flex;
     align-items: center;
     justify-content: center;
 
@@ -53,7 +53,7 @@ div {
     background-color: rgb(0, 0, 0);
 }
 .texto1{
-    left: 10px;
+    left: 55px;
     color: aliceblue;
     background-color: rgb(0, 0, 0);
     width: 1200px;
