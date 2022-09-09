@@ -58,7 +58,8 @@ div {
     width: 1200px;
     padding: 25px;
     border: 10px solid rgb(0, 0, 0);
-    margin: 25px;
+    /*margin: 25px;*/
+    margin: 0 auto;
     
 }
 .falecomigo{
